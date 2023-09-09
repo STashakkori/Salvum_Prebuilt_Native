@@ -1,5 +1,9 @@
 # Salvum_Prebuilt_Native
-This is the package deployed for Appalachian State University. Native Ubuntu 20 LTS
+This is the package deployed for Appalachian State University to support interactive cybersecurity education.
+
+Native Ubuntu 20 LTS installer. For cross-platform Salvum, see containerized versions.
+
+For docs and more: https://www.qvlx.com/downloads
 
 Yara and PXE functionality have been yanked out of this distribution along with the QVLx FCC db.
 
