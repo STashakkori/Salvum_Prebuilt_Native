@@ -9,7 +9,7 @@ Setup Instructions:
 
 Create a directory in ~ called salvum
 
-Copy install_salvum.sh and slm.enc to ~/salvum directory
+Copy install_salvum.sh and slm.tgz to ~/salvum directory
 
 From the ~/salvum directory, execute the following command:
 ```
@@ -25,10 +25,9 @@ Then can run salvum with:
 ```
 sudo ./salvum
 ```
-
 Don't have to run as su but not much will work without privilege.
 
-Yara and PXE functionality have been yanked out of this distribution along with the QVLx FCC db.
+Yara and PXE functionality have been excluded from this this distribution along with the QVLx FCC db.
 
 This made the image way smaller and easier to work with. Servf should also not work as its been commented.
 
