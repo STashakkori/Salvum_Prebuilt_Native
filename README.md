@@ -1,5 +1,5 @@
 # Salvum_Prebuilt_Native
-This is the package deployed for Appalachian State University to support interactive cybersecurity education (CS3760).
+This is the package deployed for Appalachian State University to support interactive cybersecurity education (CS3760) taught by Dr. T
 
 It is a boon to all who wish to learn the security arts.
 
