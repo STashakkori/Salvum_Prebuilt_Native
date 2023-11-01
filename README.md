@@ -6,6 +6,7 @@ It is a boon to all who wish to learn the security arts.
 Native Ubuntu 20 LTS+ installer. For cross-platform Salvum, see containerized versions.
 
 Setup Instructions:
+
 Create a directory in ~ called salvum
 
 Copy install_salvum.sh and slm.enc to ~/salvum directory
