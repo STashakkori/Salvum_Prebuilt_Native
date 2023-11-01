@@ -33,6 +33,4 @@ This made the image way smaller and easier to work with. Servf should also not w
 
 In conclusion, this installable package is smaller than the full 300+ app version by design but still super powerful.
 
-Authors: $t@$h, r00r00, n3wm4n
-
 ![asu_art](https://github.com/STashakkori/Salvum_Prebuilt_Native/assets/4257899/49cdcad0-1157-4be9-b630-cd21217f1f4c)
